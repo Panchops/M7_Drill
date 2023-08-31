@@ -1,5 +1,5 @@
 {
-  "name": "m7-final-drill",
+  "name": "m7",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -10,7 +10,7 @@
     "sync-db": "node ./scripts/createTables.js",
     "start": "node server.js"
   },
-  "author": "Kevin",
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "dotenv": "^16.3.1",
